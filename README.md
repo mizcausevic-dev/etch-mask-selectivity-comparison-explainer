@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/etch-mask-selectivity-comparison-explainer/
 
+Repository: https://github.com/mizcausevic-dev/etch-mask-selectivity-comparison-explainer
+
 ## What this is
 
 An interactive anatomy plate for Etch Mask Selectivity Comparison. Play, scrub, or jump the five stages. The same frame always draws the same picture.
